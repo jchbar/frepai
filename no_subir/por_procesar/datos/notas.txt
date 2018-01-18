@@ -1,0 +1,29 @@
+archivo proveedores 
+	dejar el codigo sin ai
+archivo frepai
+	quitar columna nombre
+	cambiar la fecha a varchar y null
+	cambiar algunos valores (mensual) con 0 porque estan vacios
+	cambiar la cedula a vchar(10) porque hay un valor muy alto
+	update `frepai` set fecha = NULL WHERE fecha='' 
+	agregar 0 a las cedulas
+	el monto (en hoja de calculo) tratar el decimal con punto (aleman suiza)
+	update frepai set status='ACTIVO' where status='A';
+	update frepai set status='RETIRA' where status='I';
+archivo movimientos
+	eliminar ñ
+	se elimino fila 20, se presume error
+	agregar 0 a las cedulas
+	el monto (en hoja de calculo) tratar el decimal con punto (aleman suiza)
+	colocar 0 al valor mes_var
+archivo socios -> dbf_socios
+	SET DATE TO YMD
+	SET CENTURY on
+	COPY TO Z:\frepai\por_procesar\datos\socio.csv DELIMITED WITH CHARACTER ';'
+	cambiar á é í ó ú N° ª "Dr "ADA" 
+
+
+
+
+	
+

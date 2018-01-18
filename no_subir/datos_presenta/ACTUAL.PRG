@@ -1,0 +1,31 @@
+select 1
+use frepai4
+select 2
+use frepai
+select 1
+go top
+do while .not.eof()
+    buscar=cedula
+    dato1=codigo
+    dato2=fecha
+    dato3=ubicacion
+    dato4=fechainscr
+    dato5=status
+    select 2
+    go top
+    loca for ALLTRIM(buscar)=ALLTRIM(cedula)
+    if found()
+       replace codigo with dato1
+       replace fecha with dato2
+       replace ubicacion with dato3
+       replace fechainscr with dato4
+       replace statUs with dato5
+    else
+      wait "no esta:"+buscar
+    endif
+    select 1
+    skip
+ enddo
+ close all
+ 
+    

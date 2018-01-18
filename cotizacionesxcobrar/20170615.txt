@@ -1,0 +1,217 @@
+020025768000000000000100000TEODOLINDA, COLMENARES                                                00IPSTAUCL              *
+020086166200000000000100000RAFAEL A., VILLARREAL                                                 00IPSTAUCL              *
+020110862500000000000100000RUBEN D., RIVAS HERRERA                                               00IPSTAUCL              *
+020112761600000000000100000YUMARY, MAURQUET DE G.                                                00IPSTAUCL              *
+020125733700000000000100000LESBIA, MORILLO DE N.                                                 00IPSTAUCL              *
+020126228700000000000100000MOISES A., GUEDEZ C.                                                  00IPSTAUCL              *
+020126332400000000000100000ELSY, COLMENAREZ                                                      00IPSTAUCL              *
+020127345800000000000100000MERCEDES, GUTIERREZ P.                                                00IPSTAUCL              *
+0240112775N0127673500000000000100000NORMA, ALEJOS DE R.                                                   00IPSTAUCL              *
+0240110370E0166679900000000000100000EFRAIN S., BARBOZA B.                                                 00IPSTAUCL              *
+020211822100000000000100000CIRO, GOMEZ                                                           00IPSTAUCL              *
+020214330000000000000100000PASTOR, GONZALEZ                                                      00IPSTAUCL              *
+020218877900000000000100000LAILA, ISAACURA                                                       00IPSTAUCL              *
+020222581700000000000100000JESUS DARIO, JIMENEZ                                                  00IPSTAUCL              *
+020223312600000000000100000SAUL, GARCIA                                                          00IPSTAUCL              *
+020238456500000000000100000LUISA, PEREIRA DE C.                                                  00IPSTAUCL              *
+020253680100000000000100000JOSE R., SOTELDO M.                                                   00IPSTAUCL              *
+020253944600000000000100000EDILIA M., PUERTA DE M.                                               00IPSTAUCL              *
+020254017000000000000100000VIRGINIA, GONZALEZ                                                    00IPSTAUCL              *
+020254101600000000000100000OSCAR A., MONTESINOS                                                  00IPSTAUCL              *
+020254352500000000000100000HILDA, MARCHAN                                                        00IPSTAUCL              *
+020254484900000000000100000SILVIA, HERNANDEZ DE A.                                               00IPSTAUCL              *
+020259078400000000000100000REIDES P., NAVAS DE A.                                                00IPSTAUCL              *
+020259651900000000000100000MINERVA, MENDOZA                                                      00IPSTAUCL              *
+020259876000000000000100000ANTONIO, ESCALONA                                                     00IPSTAUCL              *
+020260015000000000000100000CARMEN, LUCENA DE F.                                                  00IPSTAUCL              *
+020272346300000000000100000CARMEN, RODRIGUEZ DE C.                                               00IPSTAUCL              *
+020281774400000000000100000JOSE B., HUMBRIA V.                                                   00IPSTAUCL              *
+020289311200000000000100000NEIDA, NOVOA DE S.                                                    00IPSTAUCL              *
+020291226100000000000100000ANA F., YANEZ                                                         00IPSTAUCL              *
+020291534100000000000100000EGLEE, GOMEZ DE O.                                                    00IPSTAUCL              *
+020291576200000000000100000RAFAEL, SILVA                                                         00IPSTAUCL              *
+020291598900000000000100000MIGUEL, PERNALETE C.                                                  00IPSTAUCL              *
+020291695500000000000100000FREDDY, LEON                                                          00IPSTAUCL              *
+020291705500000000000100000YOLANDA, GIMENEZ                                                      00IPSTAUCL              *
+020291749600000000000100000NANCY J., PEREZ                                                       00IPSTAUCL              *
+020291820400000000000100000VIRME, REINOSO                                                        00IPSTAUCL              *
+020298846100000000000100000BERSY V., PEREZ                                                       00IPSTAUCL              *
+020304407300000000000100000JOSE R., SEGURA G.                                                    00IPSTAUCL              *
+020308058900000000000100000CARMEN M., OCANTO DE P.                                               00IPSTAUCL              *
+020308266600000000000100000OSWALDO, JUAREZ                                                       00IPSTAUCL              *
+020308324800000000000100000ANCORA, GUTIERREZ DE E.                                               00IPSTAUCL              *
+020308398600000000000100000LEONEL, ROJAS                                                         00IPSTAUCL              *
+020308794600000000000100000EDITH, HERNANDEZ                                                      00IPSTAUCL              *
+020308820500000000000100000BRADISLAV, ESPINOZA                                                   00IPSTAUCL              *
+020308864300000000000100000MARY, SOSA                                                            00IPSTAUCL              *
+020308885600000000000100000YOLANDA, MENDEZ M.                                                    00IPSTAUCL              *
+020308961600000000000100000ZORAIDA, VASQUEZ DE D.                                                00IPSTAUCL              *
+020308993900000000000100000CARMEN, PEROZO                                                        00IPSTAUCL              *
+020309793000000000000100000NOHEMY, REYES R.                                                      00IPSTAUCL              *
+020311649800000000000100000HILDA R., HUMBRIA V.                                                  00IPSTAUCL              *
+020321317000000000000100000FLORA, CRUZ DE B.                                                     00IPSTAUCL              *
+020331431900000000000100000MARLENE, RAMIREZ                                                      00IPSTAUCL              *
+020331443700000000000100000IRMA, MENDOZA DE L.                                                   00IPSTAUCL              *
+020331672400000000000100000ALICIA B., DORANTE                                                    00IPSTAUCL              *
+020331693700000000000100000CARMEN Y., GONZALEZ                                                   00IPSTAUCL              *
+0240115950M0331841500000000000100000RITA, ALVARADO DE A.                                                  00IPSTAUCL              *
+020332072600000000000100000YOLANDA, GOYO DE E.                                                   00IPSTAUCL              *
+020332072900000000000100000DILCIA C., LUCENA E.                                                  00IPSTAUCL              *
+020332326500000000000100000MAGALI, COLMENAREZ                                                    00IPSTAUCL              *
+020332342600000000000100000GOODMARO, VASQUEZ                                                     00IPSTAUCL              *
+020353323300000000000100000RAFAEL, DURAN                                                         00IPSTAUCL              *
+020353357000000000000100000ANA V., MENDEZ                                                        00IPSTAUCL              *
+020353379700000000000100000TAMAIRA S., GIMENEZ                                                   00IPSTAUCL              *
+020353409100000000000100000ALEXANDER, MUÑOS                                                      00IPSTAUCL              *
+020353461100000000000100000ADELIS J., GUTIERREZ L.                                               00IPSTAUCL              *
+020353599800000000000100000OLFA, OVIEDO DE L.                                                    00IPSTAUCL              *
+020353891600000000000100000JUAN S., PEROZO                                                       00IPSTAUCL              *
+020353951600000000000100000LUIS R., MARTINEZ M.                                                  00IPSTAUCL              *
+020354065200000000000100000LADY F., GONZALEZ                                                     00IPSTAUCL              *
+020354169800000000000100000JOSE C., SUAREZ                                                       00IPSTAUCL              *
+020354194500000000000100000AURA M., MORA                                                         00IPSTAUCL              *
+020372882600000000000100000NELLY, MORA                                                           00IPSTAUCL              *
+020373600200000000000100000OLGA, ROMAN G.                                                        00IPSTAUCL              *
+020378326900000000000100000RICARDO, GONZALES                                                     00IPSTAUCL              *
+020378450000000000000100000ELIO A., GONZALEZ                                                     00IPSTAUCL              *
+020385514600000000000100000EFRAIN J., MENDOZA                                                    00IPSTAUCL              *
+020385632900000000000100000YUDITH, GRANADOS                                                      00IPSTAUCL              *
+020385667600000000000100000RAUL, MARTINEZ                                                        00IPSTAUCL              *
+020385853000000000000100000GUILLERMINA, LEAL                                                     00IPSTAUCL              *
+020385884800000000000100000DOMINGA, GARCIA DE P.                                                 00IPSTAUCL              *
+0240110085H0385901000000000000100000MIREYA, ALVARADO                                                      00IPSTAUCL              *
+0240114882V0385935000000000000100000RAFAEL, CAMACHO C.                                                    00IPSTAUCL              *
+020385958000000000000100000LAURA V., RAMIREZ A.                                                  00IPSTAUCL              *
+020386066000000000000100000HAIDEE, ENCINOZA DE J.                                                00IPSTAUCL              *
+020386093800000000000100000JUAN R., PUERTA                                                       00IPSTAUCL              *
+020386125600000000000100000SOLWEY, GIL DE G.                                                     00IPSTAUCL              *
+020386279400000000000100000SILVIA P., GRATEROL                                                   00IPSTAUCL              *
+020386311100000000000100000CARMEN C., FUENTES DE M.                                              00IPSTAUCL              *
+020386470600000000000100000JUANA D., ASUAJE C.                                                   00IPSTAUCL              *
+020387823700000000000100000MAGALY, DIAZ A.                                                       00IPSTAUCL              *
+020390518100000000000100000FANNY, RODRIGUEZ D.                                                   00IPSTAUCL              *
+020400732500000000000100000NANCY, QUERALES                                                       00IPSTAUCL              *
+020406418500000000000100000ADELA, QUERO                                                          00IPSTAUCL              *
+0240110003P0406441200000000000100000MIRTHA, ALVARADO DE A.                                                00IPSTAUCL              *
+020406449200000000000100000NELLY, PEREZ DE Y.                                                    00IPSTAUCL              *
+020406466200000000000100000LILIA, GARCIA DE A.                                                   00IPSTAUCL              *
+020406488800000000000100000HELIOPOLIS DE J., CASTILLO                                            00IPSTAUCL              *
+0240110515C0406590300000000000100000MARIA M., CALLES DE C.                                                00IPSTAUCL              *
+020406602900000000000100000WILLIAM, ROJAS                                                        00IPSTAUCL              *
+020406608400000000000100000MARIO J., DUDAMEL C.                                                  00IPSTAUCL              *
+020406626000000000000100000ELIONOR, GOMEZ                                                        00IPSTAUCL              *
+0240113760U0406893900000000000100000ORLANDO DE J., DOMINGUEZ                                              00IPSTAUCL              *
+020406913100000000000100000LILA, SILVA D.                                                        00IPSTAUCL              *
+020406986700000000000100000NELLY, ESCALONA                                                       00IPSTAUCL              *
+020407322900000000000100000ELIO, SALAS                                                           00IPSTAUCL              *
+020407373200000000000100000JULIO CESAR, DIAZ                                                     00IPSTAUCL              *
+020419407000000000000100000JOSE R., MELENDEZ A.                                                  00IPSTAUCL              *
+020419596500000000000100000ERNESTO W., MARCHAN                                                   00IPSTAUCL              *
+020420033300000000000100000ROUTMAN J., HERNANDEZ                                                 00IPSTAUCL              *
+020425795200000000000100000GLADYS T., LEDEZMA C.                                                 00IPSTAUCL              *
+020434372400000000000100000ANA M., BORA Y.                                                       00IPSTAUCL              *
+020437623400000000000100000EDWIN, PEREZ                                                          00IPSTAUCL              *
+020437723000000000000100000OLGA, PIÑANGO                                                         00IPSTAUCL              *
+020437833500000000000100000ORLANDO J., ORTIZ J.                                                  00IPSTAUCL              *
+020437970000000000000100000ROMER R., GONZALEZ G.                                                 00IPSTAUCL              *
+020438118700000000000100000ZORAIDA, SILVA DE B.                                                  00IPSTAUCL              *
+020438395700000000000100000JOSE ANGEL, SIERRA                                                    00IPSTAUCL              *
+020438503600000000000100000MARCOS, GARCIA                                                        00IPSTAUCL              *
+0240110511G0438523000000000000100000ADALBERTO J., CARRASCO                                                00IPSTAUCL              *
+020438561200000000000100000DURVAL A., PEREZ                                                      00IPSTAUCL              *
+020438588000000000000100000TEODORO C., OVIEDO                                                    00IPSTAUCL              *
+020438592600000000000100000BEATRIZ, CARDENAS DE M.                                               00IPSTAUCL              *
+020438596900000000000100000IRMA, PEROZO DE S.                                                    00IPSTAUCL              *
+0240110503R0438663400000000000100000WILLAM, CASTILLO A.                                                   00IPSTAUCL              *
+020438796200000000000100000ELIZABETH, MAJANO DE G.                                               00IPSTAUCL              *
+020440968700000000000100000MARLENE, PIÑERO                                                       00IPSTAUCL              *
+020442752200000000000100000CANTALICIA, COLINA                                                    00IPSTAUCL              *
+020447884300000000000100000MARLENE, MENDOZA                                                      00IPSTAUCL              *
+020472030500000000000100000MIRIHAM C., MENDOZA P.                                                00IPSTAUCL              *
+020472614500000000000100000MELQUIADES E., GUERRA                                                 00IPSTAUCL              *
+020472639300000000000100000ZORAIDA DEL C., MORENO                                                00IPSTAUCL              *
+020472773300000000000100000RAFAEL, GUERRERO                                                      00IPSTAUCL              *
+020472842200000000000100000MARLENIS C., GARCIA DE B.                                             00IPSTAUCL              *
+020472848300000000000100000OTTO, GIL C.                                                          00IPSTAUCL              *
+020472903900000000000100000GLORIA, CHIRINOS                                                      00IPSTAUCL              *
+0240114777J0472929000000000000100000RUBEN D., ALBORNOZ                                                    00IPSTAUCL              *
+0240118582C0472934900000000000100000PEDRO, CALLES                                                         00IPSTAUCL              *
+020472985000000000000100000ALFREDO J., MUJICA                                                    00IPSTAUCL              *
+020473018000000000000100000ALEXANDER, RODRIGUEZ                                                  00IPSTAUCL              *
+020473048200000000000100000MIRIAM, MARCHAN M.                                                    00IPSTAUCL              *
+0240110174N0473309400000000000100000YIMMY P., ALVARADO                                                    00IPSTAUCL              *
+020473383800000000000100000NELSON, FONSECA                                                       00IPSTAUCL              *
+0240114887S0473635200000000000100000YAMILY, AMARO M.                                                      00IPSTAUCL              *
+020473828000000000000100000BELKYS, PALMA                                                         00IPSTAUCL              *
+0240110191G0473839900000000000100000JUAN J., ARROYO                                                       00IPSTAUCL              *
+0240122295G0479701800000000000100000ISNARDO A., SOLORZANO R.                                              00IPSTAUCL              *
+020520002400000000000100000LUISA, VARELA DE N.                                                   00IPSTAUCL              *
+020523967700000000000100000ANGEL A., GOMEZ                                                       00IPSTAUCL              *
+020523982100000000000100000YAMELY V., SILVA P.                                                   00IPSTAUCL              *
+020524015500000000000100000LUIS, MEDINA                                                          00IPSTAUCL              *
+020524211200000000000100000ORLANDO M., RODRIGUEZ C.                                              00IPSTAUCL              *
+020524309400000000000100000VENERANDA A., STIFANO T.                                              00IPSTAUCL              *
+0240110420R0524402500000000000100000JOSE R., BRITO                                                        00IPSTAUCL              *
+020524596000000000000100000ADA V., PEREZ                                                         00IPSTAUCL              *
+020524874200000000000100000VERONICA, LEIVA                                                       00IPSTAUCL              *
+020525004100000000000100000CARMEN Y., TIELVE DE Y.                                               00IPSTAUCL              *
+0240110675U0525073700000000000100000GLADYS M., CALDERA                                                    00IPSTAUCL              *
+020525127300000000000100000NANCY E., VEGAS M.                                                    00IPSTAUCL              *
+020525215500000000000100000OMAIRA E., PEREIRA                                                    00IPSTAUCL              *
+020525726600000000000100000ROSA A., HERNANDEZ                                                    00IPSTAUCL              *
+0240110735Q0525733100000000000100000INGRID, CASTILLO DE M.                                                00IPSTAUCL              *
+020525887600000000000100000JOSE DE LA C., ESCOBAR G.                                             00IPSTAUCL              *
+020526101800000000000100000MANUEL F., PEÑA T.                                                    00IPSTAUCL              *
+020526170400000000000100000HERNAN V., DE LA CRUZ F.                                              00IPSTAUCL              *
+020526185900000000000100000MARLENY C., HERNANDEZ M.                                              00IPSTAUCL              *
+0240117453H0527879800000000000100000PASTOR A., ALVAREZ V.                                                 00IPSTAUCL              *
+020532318300000000000100000ROSALIA, SILVA DE R.                                                  00IPSTAUCL              *
+020532348700000000000100000RAFAEL J., RIERA C.                                                   00IPSTAUCL              *
+020536747800000000000100000LORENA C., GOMEZ V.                                                   00IPSTAUCL              *
+0240110194B0536930100000000000100000JOSE G., APONTE                                                       00IPSTAUCL              *
+020542085000000000000100000TANIA, RODRIGUEZ                                                      00IPSTAUCL              *
+020550937000000000000100000ADELZAIDA, CHOURIO                                                    00IPSTAUCL              *
+020554276300000000000100000JOSE A., ZAMBRANO F.                                                  00IPSTAUCL              *
+020592104500000000000100000IRMA L., INFANTE                                                      00IPSTAUCL              *
+020605926900000000000100000MIKLOS, PERY                                                          00IPSTAUCL              *
+020621420100000000000100000ERICSON J., MENDEZ P.                                                 00IPSTAUCL              *
+020657348900000000000100000RAFAEL, URDANETA                                                      00IPSTAUCL              *
+0240114876E0730158900000000000100000JOSE G., CAMPOS                                                       00IPSTAUCL              *
+020730472700000000000100000ELIZABETH, LIENDO DE C.                                               00IPSTAUCL              *
+020730898300000000000100000ODALIS, GONZALEZ DE V.                                                00IPSTAUCL              *
+020731159600000000000100000NORMA, GOMEZ DE TOVAR                                                 00IPSTAUCL              *
+020731512400000000000100000OSCAR E., VIRGUEZ S.                                                  00IPSTAUCL              *
+020732176900000000000100000YAJAIRA DEL C., ROJAS DE M.                                           00IPSTAUCL              *
+020732945700000000000100000FRANKLIN, MARTINEZ L.                                                 00IPSTAUCL              *
+020733221400000000000100000FRANCISCO S., BRAVO N.                                                00IPSTAUCL              *
+020734153600000000000100000ELENA, CALLES R.                                                      00IPSTAUCL              *
+0240117662J0735044400000000000100000JORGE, ALVARADO                                                       00IPSTAUCL              *
+020735060600000000000100000OMAR W., MARIN A.                                                     00IPSTAUCL              *
+020736852500000000000100000PASTORA J., CRESPO                                                    00IPSTAUCL              *
+020737195500000000000100000NELIDA I., GONZALEZ A.                                                00IPSTAUCL              *
+020737570100000000000100000MARGOT, VELIZ Y.                                                      00IPSTAUCL              *
+020738279500000000000100000MIRIAN T., MARINO T.                                                  00IPSTAUCL              *
+020738792100000000000100000NADEXTZA, SUAREZ DE L.                                                00IPSTAUCL              *
+020739732100000000000100000DOMINGO, SIVIRA                                                       00IPSTAUCL              *
+020740552000000000000100000CESAR, MELENDEZ M.                                                    00IPSTAUCL              *
+020741750500000000000100000MIGDALIA M., ROMERO DE H.                                             00IPSTAUCL              *
+0240116252N0742256300000000000100000ANGEL, CHACON                                                         00IPSTAUCL              *
+020743966600000000000100000REINALDO A., CAMACHO                                                  00IPSTAUCL              *
+020754343200000000000100000ARMANDO W., DIAZ                                                      00IPSTAUCL              *
+020755978600000000000100000ELENA C., SOTELDO                                                     00IPSTAUCL              *
+020759897300000000000100000MARIA S., RODRIGUEZ S.                                                00IPSTAUCL              *
+020805914200000000000100000RUBEN D., ESPINOZA T.                                                 00IPSTAUCL              *
+020806444200000000000100000MERCEDES J., QUERO P.                                                 00IPSTAUCL              *
+020911521900000000000100000ROSSANA, TORRES A.                                                    00IPSTAUCL              *
+020911797300000000000100000OTILIA, HERNANDEZ                                                     00IPSTAUCL              *
+0240118457N0938810300000000000100000ELIZABETH, BRICEÑO                                                    00IPSTAUCL              *
+020954338800000000000100000NORA, MENDOZA                                                         00IPSTAUCL              *
+020960159100000000000100000RICARDO, RODRIGUEZ                                                    00IPSTAUCL              *
+020960341600000000000100000BELLITA I., RODRIGUEZ                                                 00IPSTAUCL              *
+020960472200000000000100000ISABEL, MASCAREÑO                                                     00IPSTAUCL              *
+020960590800000000000100000ROSA, PERDOMO                                                         00IPSTAUCL              *
+020960984100000000000100000WILFRED P, GONZALEZ A.                                                00IPSTAUCL              *
+021077428800000000000100000CARLOS, MORENO                                                        00IPSTAUCL              *
+021084250300000000000100000JUAN J., LOPEZ H.                                                     00IPSTAUCL              *
+0240117388Q1143176800000000000100000RUBEN D., PEREZ                                                       00IPSTAUCL              *
+021159323800000000000100000MIRIAM I., GONZALEZ                                                   00IPSTAUCL              *

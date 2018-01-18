@@ -1,0 +1,110 @@
+Z:\frepai\datos_presenta\solodbf\todos
+
+datos que se estima que tenga
+
+datos2 = salida nomina ucla
+prueba = detalle de cobros 
+movim3 = aparenta tener lo que se va a descontar por nomina por cada concepto
+dato3 = parece prestamos con su saldo y cuota
+provee = proveedores y servicios
+movim = ?
+frepai = frepai
+proveedores = datos de proveedores y servicios (relacion con provee?)
+socio = datos de titulares
+cotizac = ?
+control = ?
+servici1 = ?
+historia = ?
+prestamo = ?
+enero = descartado por antiguedad
+frepai3 = descartado por antiguedad
+frepai4 = descartado por antiguedad
+frepai octubre 2009 = descartado por antiguedad
+frepai2 = descartado por antiguedad
+frepai9 = descartado por antiguedad
+xmovim = = descartado por antiguedad
+frepai noviembre 2004 = descartado por antiguedad
+cierre frepai octubre 2004= descartado por antiguedad
+copia de frepai= descartado por antiguedad
+frepai.dbf= descartado por antiguedad
+frepai enero 2004= descartado por antiguedad
+copia de socio = descartado por antiguedad
+provee = descartado por antiguedad
+marzo-00 = descartado por antiguedad
+mar2000 = descartado por antiguedad
+exel = descartado por antiguedad
+dic99= descartado por antiguedad
+cargafam = carga familiar de ? definir los parentescos (0, A, C, E, H, J, M, P, X)
+dato = descartado por antiguedad
+familia = descartado por antiguedad
+retiros = descartado por antiguedad
+clave = descartado por antiguedad
+
+
+conversion archivo socio
+	* eventualmente en la conversion quedan dos registros en una misma fila y genera error
+	SET CENTURY on
+	SET DATE TO YMD
+	SET FILTER TO DELETED()
+	REPLACE ALL STATUS WITH 'R'
+	RECALL ALL
+	SET FILTER TO ! conyuge
+	REPLACE ALL conyuge WITH .f.
+	set filt to
+	COPY TO Z:\frepai\datos_presenta\solodbf\todos\socio.csv DELIMITED WITH CHARACTER ';'
+	quitar los caracteres º í á é ó ú ñ Ñ ª ° Ü ò
+	vaciar archivo dbf_socio
+	importar desde phpmyadmin
+		UPDATE dbf_socio SET fechnac = REPLACE(fechnac, '/', '-'), ingucla = REPLACE(ingucla, '/', '-'),  ingipsta = REPLACE(ingipsta, '/', '-'), incnomina = REPLACE(incnomina, '/', '-');
+		UPDATE dbf_socio SET status = 'ACTIVO' WHERE status='A';
+		UPDATE dbf_socio SET status = 'RETIRA' WHERE status='R';
+		UPDATE dbf_socio SET status = 'JUBILA' WHERE status='J';
+		UPDATE dbf_socio SET status = 'OTRO' WHERE status='O';
+		UPDATE dbf_socio SET edocivil = 'OTRO' WHERE edocivil='O';
+		UPDATE dbf_socio SET edocivil = 'CASADO' WHERE edocivil='C';
+		UPDATE dbf_socio SET edocivil = 'DIVORCIADO' WHERE edocivil='D';
+		UPDATE dbf_socio SET edocivil = 'SOLTERO' WHERE edocivil='S';
+		UPDATE dbf_socio SET edocivil = 'VIUDO' WHERE edocivil='V';
+		update dbf_socio SET fechnac = '1001-01-01' WHERE substr(fechnac,1,1)='-' ;
+		update dbf_socio SET ingucla = '1001-01-01' WHERE substr(ingucla,1,1)='-' ;
+		update dbf_socio SET ingipsta = '1001-01-01' WHERE substr(ingipsta,1,1)='-' ;
+		update dbf_socio SET incnomina = '1001-01-01' WHERE substr(incnomina,1,1)='-' ;
+		delete from dbf_socio where cedula=9634046 and status='RETIRA';
+		delete from dbf_socio where cedula=7425658 and status='RETIRA';
+		delete from dbf_socio where cedula=15492628 and status='RETIRA';
+		delete from dbf_socio where cedula=15265534 and status='RETIRA';
+		delete from dbf_socio where cedula=11263061 and status='RETIRA';
+		delete from dbf_socio where cedula=3751000 and status='RETIRA';
+		delete from dbf_socio where cedula=3539788 and status='RETIRA';
+		delete from dbf_socio where cedula=5245864 and status='RETIRA';
+		http://192.168.0.6/frepai/por_procesar/cargar_socios.php
+	
+conversion archivo frepai
+	SET CENTURY on
+	SET DATE TO YMD
+	eliminar columna de nombre
+	COPY TO Z:\frepai\datos_presenta\solodbf\todos\frepai.csv DELIMITED WITH CHARACTER ';'
+	vaciar archivo dbf_frepai
+	importar desde phpmyadmin
+		UPDATE dbf_frepai SET fecha = REPLACE(fecha, '/', '-'), inscripcion = REPLACE(inscripcion, '/','-');
+		update dbf_frepai SET fecha = '1001-01-01' WHERE substr(fecha,1,1)='-' ;
+		update dbf_frepai SET inscripcion = '1001-01-01' WHERE substr(inscripcion,1,1)='-' ;
+		UPDATE dbf_frepai SET status = 'ACTIVO' WHERE status='A';
+		UPDATE dbf_frepai SET status = 'RETIRA' WHERE status='I';
+
+conversion archivo carga_fam
+	SET CENTURY on
+	SET DATE TO YMD
+	eliminar columna de nombre
+	COPY TO Z:\frepai\datos_presenta\solodbf\todos\beneficiarios.csv DELIMITED WITH CHARACTER ';'
+	cambiar las Ñ por N
+	vaciar archivo dbf_beneficiario
+	importar desde phpmyadmin
+		UPDATE dbf_beneficiario SET fechanac = REPLACE(fechanac, '/', '-');
+		update dbf_beneficiario SET fechanac = '1001-01-01' WHERE substr(fechanac,1,1)='-' ;
+		UPDATE dbf_beneficiario SET parentesco = 'PADRE' WHERE parentesco='P';
+		UPDATE dbf_beneficiario SET parentesco = 'ABUELO' WHERE parentesco='A';
+		UPDATE dbf_beneficiario SET parentesco = 'TITULAR' WHERE parentesco='X';
+		UPDATE dbf_beneficiario SET parentesco = 'CONYUGE' WHERE parentesco='C';
+		UPDATE dbf_beneficiario SET parentesco = 'MADRE' WHERE parentesco='M';
+		UPDATE dbf_beneficiario SET parentesco = 'HIJO' WHERE parentesco='H';

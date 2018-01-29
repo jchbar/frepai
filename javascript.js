@@ -5,6 +5,9 @@ function borrar_cuenta() {
 	return confirm("¿Está seguro de que quiere borrar esta Cuenta?")
 }
 
+function confirmarprocesarnomina() {
+	return confirm("¿Está seguro que desea cerrar esta Nomina?")
+}
 function borrar_asiento() {
 	return confirm("¿Está seguro de que quiere borrar este Asiento?")
 }

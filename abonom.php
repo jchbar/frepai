@@ -82,7 +82,7 @@ function procesar_nomimna($db_con, $fecha, $ff)
 			$sumar 		= codigosuma($db_con, $concepto);
 			if ($sumar == true)
 			{
-				if ($concepto == 39)
+				if ($concepto == '039')
 				{
 					$sql = "update titulares set acumbs = acumbs + :monto, numcuota = numcuota+1, ult_cotizacion = :fecha, cotizacion = :monto where cedula = :cedula ";
 					$titular=$db_con->prepare($sql);
@@ -143,8 +143,14 @@ function procesar_nomimna($db_con, $fecha, $ff)
 						":momento"=>$momento,
 						":nroreg"=>$nroreg
 						));
+
 			}
 		}
+		$sql = "update nominas set cerrada = 1 where fechanomina = :fecha and visible = 1";
+		$cotiza=$db_con->prepare($sql);
+		$cotiza->execute(array(
+				":fecha"=>$fecha,
+			));
 		$db_con->commit();
 		echo '<div class="col-md-8">';
  		mensaje(['tipo'=>'success','titulo'=>'Información','texto'=>'<h2>Proceso Finalizado</h2>']);
@@ -160,7 +166,7 @@ function procesar_nomimna($db_con, $fecha, $ff)
 
 function ver_nominas($db_con)
 {
-	$sql="SELECT fechanomina, DATE_FORMAT(fechanomina,'%m/%d/%Y') as fnom, sum(montocotizacion) as sumatoria FROM `nominas` WHERE visible = 1 and cerrada = 0 group by fechanomina order by fechanomina desc";
+	$sql="SELECT fechanomina, DATE_FORMAT(fechanomina,'%d/%m/%Y') as fnom, sum(montocotizacion) as sumatoria FROM `nominas` WHERE visible = 1 and cerrada = 0 group by fechanomina order by fechanomina desc";
 	$stmt=$db_con->prepare($sql);
 	$stmt->execute();
 	if ($stmt->rowCount() > 0)
@@ -208,7 +214,7 @@ function ver_nominas($db_con)
 
 function codigosuma($db_con, $codigo)
 {
-	$sql="select * from configuracion where parametro = :codigo";
+	$sql="select * from configuracion where parametro = 'CodigoSuma' and nombre = :codigo";
 	$archivo=$db_con->prepare($sql);
 	$archivo->execute(array(
 		":codigo"=>$codigo,
